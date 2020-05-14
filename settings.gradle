@@ -1,0 +1,3 @@
+rootProject.name='Conectando'
+include ':mobile'
+include ':wear'
